@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Dummy User Story
+about: Testing if visible in ZenHub
 title: ''
 labels: ''
 assignees: ''
